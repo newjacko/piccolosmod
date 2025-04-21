@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fc5cda4a-49f7-413a-834d-51f2b57cb4bd)
 # Piccolo’s Agario Modded 3.2 🕹️  
 _Agar.io, re‑imagined by **𝓝𝑒ⓦ 𝓙ⓐ¢K** after 10 years_
 
@@ -124,3 +125,8 @@ legendmod.ml – original chat/private‑server tricks.
 The entire Agar.io community – keep the arena alive!
 
 💬 Questions or new ideas? Find me on Discord: new_jack_9999
+![image](https://github.com/user-attachments/assets/0a2cd3c3-7352-4f47-ae3d-3bcb378b813f)
+![image](https://github.com/user-attachments/assets/0ea7206a-1293-42e5-8d3c-b0cfa7897995)
+![image](https://github.com/user-attachments/assets/d67232e7-0b50-4822-9522-39aed90810a5)
+
+
